@@ -2,8 +2,14 @@
 
 A full-stack Airbnb clone, focusing mainly on backend (server, database, API, security).
 
-# Technology
-Django, MySQL, GraphQL, Jenkins, Docker and Github.
+# Technology Stack
+- Django - a web framework for building RESTful APIs.
+- MySQL - A relational database.
+- GraphQL - A non relational database.
+- PostgreSQL - A relational database.
+- Jenkins - tool to automate the deployment and testing process.
+- Docker - for contenerizing the code.
+- Github - for code base and management and collaboration.
 
 # Team Roles
 - Project manager (PM) - Makes sure a product is delivered on time and within budget and also Manages and motivates the software development team.
