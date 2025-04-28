@@ -32,6 +32,10 @@ A full-stack Airbnb clone, focusing mainly on backend (server, database, API, se
         - font-style: Quicksand
         - font-weight: 700 and 600
         - font size: 16, 21, 22, 30 px
+# UI Component Patterns
+- Navbar
+- Property card
+- Footer
 # Feature Breakdown
 - user management
 - property management
